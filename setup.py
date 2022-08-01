@@ -42,7 +42,7 @@ setup(
         'humanize',
         'immutabledict',
         'kubernetes',
-        'sqlalchemy==1.2.19',
+        'sqlalchemy',
         'termcolor',
     ],
     entry_points={
